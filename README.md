@@ -17,3 +17,6 @@ you can [Download the Extension from here](https://dl.dropboxusercontent.com/u/1
 * this was a very initial version and a proof of concept.
 * writing tests.
 * the extension currently supports only homepage, will add support of all other pages which are loaded with ajax, and also add support for dynamic scrolling.
+
+## Contibute
+as i always say feel free to fork this process and push any modifications.
