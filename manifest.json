@@ -1,0 +1,27 @@
+{
+	"name":"Access Pocket Original Links",
+	"version":"0.0.1",
+	"manifest_version" : 2,
+
+	"description":"Directly click on your saved links in getpocket.com (formerly ReadItLater) without loading short description page and then click on view original",
+	"homepage_url" : "http://github.com/AhmedAttyah/",
+
+	"icons": {
+    "16": "src/images/correct.png",
+    "128": "src/images/correct.png"
+  },
+	"default_locale":"en",
+
+	 "web_accessible_resources": ["src/images/correct.png"] ,
+	"permissions":[
+		"tabs","http://*/*","https://*/*"
+		],
+	
+	"content_scripts":[
+		{
+			"matches":["http://getpocket.com/*"],
+			"js":["src/jquery/jquery.min.js","src/inject/inject.js"],
+			"run_at": "document_end"
+		}
+	]
+}
