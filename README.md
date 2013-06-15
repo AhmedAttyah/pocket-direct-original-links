@@ -8,7 +8,7 @@ i was annoyed by getpocket.com interface, i had to click twice to load one more 
 
 ## How it works 
 
-you can [Download the Extension from here](https://dl.dropboxusercontent.com/u/1114321/pocket-direct-link-chrome-extension.crx) or clone this repoistory, then drag .crx file into any chrome tab, and click add, you will a blue correct image under the link when original link fetching is done.
+you can [Download the Extension from here](https://dl.dropboxusercontent.com/u/1114321/pocket-direct-link-chrome-extension.crx) or clone this repoistory, then go to (chrome://extensions/) and check to enable developer mode on the top, then drag .crx file into this tab, and click add, you will a blue correct image under the link when original link fetching is done.
 
 ## Screenshot
 ![extension screenshot](https://dl.dropboxusercontent.com/u/1114321/screenshot1.png)
