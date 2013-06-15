@@ -1,6 +1,6 @@
 #Access Pocket Original Links Directly
 
-### Directly click on your saved links from Homepage in getpocket.com (formerly ReadItLater) without loading the annoying short description page and then click on view original for every single link
+ Directly click on your saved links from Homepage in getpocket.com (formerly ReadItLater) without loading the annoying short description page and then click on view original for every single link
 
 
 ## Why i made this extension ?
