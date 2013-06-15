@@ -23,4 +23,4 @@ i was annoyed by getpocket.com interface, i had to click twice to load one more 
 * the extension currently supports only homepage, will add support of all other pages which are loaded with ajax, and also add support for dynamic scrolling.
 
 ## Contibute
-as i always say feel free to fork this process and push any modifications.
+as i always say feel free to fork this project and push any modifications.
