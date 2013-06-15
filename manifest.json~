@@ -3,14 +3,15 @@
 	"version":"0.0.1",
 	"manifest_version" : 2,
 
-	"description":"Directly click on your saved links from Homepage in getpocket.com without loading the annoying short description page.",
-	"homepage_url" : "https://github.com/AhmedAttyah/pocket-direct-original-links",
+	"description":"Directly click on your saved links from Homepage in getpocket.com (formerly ReadItLater) without loading the annoying short description page and then click on view original for every single link",
+	"homepage_url" : "http://github.com/AhmedAttyah/",
 
 	"icons": {
     "16": "src/images/correct.png",
     "128": "src/images/correct.png"
   },
-	
+	"default_locale":"en",
+
 	 "web_accessible_resources": ["src/images/correct.png"] ,
 	"permissions":[
 		"tabs","http://*/*","https://*/*"
